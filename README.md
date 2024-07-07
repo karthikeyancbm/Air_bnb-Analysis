@@ -5,7 +5,7 @@
 ## **Introduction:**
 * Airbnb, is an American San Francisco-based company operating an online marketplace for short-term and long-term homestays and experiences.
 * The company acts as a broker and charges a commission from each booking.
-* This project aims at Extracting, Cleaning, Performing the EDA, Visualizing it using Streamlit and Creating an interactive Power BI Dashboard. The dataset is available in the MongoDB Atlas as a Sample Dataset.
+* This project aims at Extracting, Cleaning, Performing the EDA, Visualizing it using Streamlit and Creating an interactive Tableau Dashboard. The dataset is available in the MongoDB Atlas as a Sample Dataset.
 
 # **Technology Stack:**
 1. Python scripting
