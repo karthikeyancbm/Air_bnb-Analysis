@@ -18,8 +18,7 @@
 8. Tableau
 
 # **Usage:**
-1. Clone the repo from the below mentioned link.
-   * : Air_bnb-Analysis
+1. Clone the repo.
 2. Run the streamlit application using streamlit run filepath.\Air_bnb.py
 3. View the portal in your localhost
 
