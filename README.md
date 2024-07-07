@@ -18,18 +18,18 @@
 8. Tableau
 
 # **Usage:**
-1.Clone the repo from the below mentioned link.
-Air_bnb-Analysis
-2.Run the streamlit application using streamlit run filepath.\Air_bnb.py
-3.View the portal in your localhost
+1. Clone the repo from the below mentioned link.
+   Air_bnb-Analysis
+2. Run the streamlit application using streamlit run filepath.\Air_bnb.py
+3. View the portal in your localhost
 
 # **Data Uploading and the Extraction:**
-1.Upload the sample dataset into MongoDb using mongodb insert query.
-2.Login to the MongoDb Atlas portal
-3.Choose "Browse Collections"
-4.From the list of collections, select sample_airbnb.listingsAndReviews
-5.Explore the dataset available
-6.Extract the data
+1. Upload the sample dataset into MongoDb using mongodb insert query.
+2. Login to the MongoDb Atlas portal
+3. Choose "Browse Collections"
+4. From the list of collections, select sample_airbnb.listingsAndReviews
+5. Explore the dataset available
+6. Extract the data
 
 # **Data Cleaning and Transformation:**
 * Split the dataset into separate table, so that we can get a clear understanding.
