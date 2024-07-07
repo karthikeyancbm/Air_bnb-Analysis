@@ -8,14 +8,14 @@
 * This project aims at Extracting, Cleaning, Performing the EDA, Visualizing it using Streamlit and Creating an interactive Power BI Dashboard. The dataset is available in the MongoDB Atlas as a Sample Dataset.
 
 # **Technology Stack:**
-1.Python scripting
-2.NoSQL - MongoDB Atlas
-3.Streamlit App development
-4.Data Pre-processing
-5.Plotly
-6.seaborn
-7.Matplotlib
-8.Tableau
+1. Python scripting
+2. NoSQL - MongoDB Atlas
+3. Streamlit App development
+4. Data Pre-processing
+5. Plotly
+6. seaborn
+7. Matplotlib
+8. Tableau
 
 # **Usage:**
 1.Clone the repo from the below mentioned link.
