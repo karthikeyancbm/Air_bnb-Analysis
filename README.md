@@ -42,7 +42,7 @@
 # **Dashboard Creation:**
 * An interactive dashboard reports are generated and filtered through a Tableau.
 * View the dashboard using the link mentioned below.
-* Tableau link: [https://public.tableau.com/views/AirbnbAnalysisDashboard2/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/karthikeyan.m2180/vizzes)
+* Tableau link: https://public.tableau.com/app/profile/karthikeyan.m2180/viz/AirbnbAnalysisDashBoard/
 
 
 # **Further Improvements:**
