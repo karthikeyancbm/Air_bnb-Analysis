@@ -42,7 +42,7 @@
 # **Dashboard Creation:**
 * An interactive dashboard reports are generated and filtered through a Tableau.
 * View the dashboard using the link mentioned below.
-* Tableau Dashboard link : https://prod-apnortheast-a.online.tableau.com/#/site/karthikeyancbm19827abc0fd4c1/
+
 
 # **Further Improvements:**
 The project can further be enhanced by building models to predict the hosts preferences based on seasons and availabilities. This will help us to better understand and recommend to the hosts accordingly.
